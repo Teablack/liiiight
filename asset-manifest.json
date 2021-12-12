@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/liiiight/static/css/main.a617e044.chunk.css",
-    "main.js": "/liiiight/static/js/main.250ffa45.chunk.js",
-    "main.js.map": "/liiiight/static/js/main.250ffa45.chunk.js.map",
+    "main.css": "/liiiight/static/css/main.6abe5586.chunk.css",
+    "main.js": "/liiiight/static/js/main.705d39f9.chunk.js",
+    "main.js.map": "/liiiight/static/js/main.705d39f9.chunk.js.map",
     "runtime-main.js": "/liiiight/static/js/runtime-main.49c186bb.js",
     "runtime-main.js.map": "/liiiight/static/js/runtime-main.49c186bb.js.map",
     "static/js/2.e6f34f5f.chunk.js": "/liiiight/static/js/2.e6f34f5f.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.ff51564f.chunk.js": "/liiiight/static/js/3.ff51564f.chunk.js",
     "static/js/3.ff51564f.chunk.js.map": "/liiiight/static/js/3.ff51564f.chunk.js.map",
     "index.html": "/liiiight/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/liiiight/static/css/main.a617e044.chunk.css.map",
+    "static/css/main.6abe5586.chunk.css.map": "/liiiight/static/css/main.6abe5586.chunk.css.map",
     "static/js/2.e6f34f5f.chunk.js.LICENSE.txt": "/liiiight/static/js/2.e6f34f5f.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/liiiight/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.49c186bb.js",
     "static/js/2.e6f34f5f.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.250ffa45.chunk.js"
+    "static/css/main.6abe5586.chunk.css",
+    "static/js/main.705d39f9.chunk.js"
   ]
 }
