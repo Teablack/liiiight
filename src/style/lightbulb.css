@@ -1,0 +1,27 @@
+.lightbulb_box {
+    display: flex;
+    justify-content: center;
+    vertical-align: center;
+}
+
+.light {
+    background: rgb(255, 255, 255);
+    width: 280px;
+    height: 280px;
+    position: absolute;
+    border-radius: 180px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.lightbulb {
+    top: 50%;
+    position: absolute;
+    width: 300px;
+    height: auto;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
