@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Солька - бараболька{" "}
+          Солька - бараболька!{" "}
         </a>
         URL{" "}
       </header>{" "}
