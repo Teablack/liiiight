@@ -5,6 +5,7 @@ export default function LightBulb({ isOn, color }) {
   return (
     <>
       <div className="lightbulb_box">
+        <img className="lightbulb" src={lightbulb} alt="lightbulb" />
         <div
           className="light"
           style={
@@ -14,9 +15,8 @@ export default function LightBulb({ isOn, color }) {
                 }
               : null
           }
-        ></div>{" "}
-        <img className="lightbulb" src={lightbulb} alt="lightbulb" />
-      </div>{" "}
+        ></div>
+      </div>
     </>
   );
 }
