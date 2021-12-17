@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/liiiight/static/css/main.1fe3b4a4.chunk.css",
-    "main.js": "/liiiight/static/js/main.cf473ee9.chunk.js",
-    "main.js.map": "/liiiight/static/js/main.cf473ee9.chunk.js.map",
+    "main.css": "/liiiight/static/css/main.b55309f6.chunk.css",
+    "main.js": "/liiiight/static/js/main.c220523a.chunk.js",
+    "main.js.map": "/liiiight/static/js/main.c220523a.chunk.js.map",
     "runtime-main.js": "/liiiight/static/js/runtime-main.758d9e04.js",
     "runtime-main.js.map": "/liiiight/static/js/runtime-main.758d9e04.js.map",
     "static/css/2.e39a3f75.chunk.css": "/liiiight/static/css/2.e39a3f75.chunk.css",
@@ -12,14 +12,15 @@
     "static/js/3.fbf1c5d4.chunk.js.map": "/liiiight/static/js/3.fbf1c5d4.chunk.js.map",
     "index.html": "/liiiight/index.html",
     "static/css/2.e39a3f75.chunk.css.map": "/liiiight/static/css/2.e39a3f75.chunk.css.map",
-    "static/css/main.1fe3b4a4.chunk.css.map": "/liiiight/static/css/main.1fe3b4a4.chunk.css.map",
-    "static/js/2.3d21b752.chunk.js.LICENSE.txt": "/liiiight/static/js/2.3d21b752.chunk.js.LICENSE.txt"
+    "static/css/main.b55309f6.chunk.css.map": "/liiiight/static/css/main.b55309f6.chunk.css.map",
+    "static/js/2.3d21b752.chunk.js.LICENSE.txt": "/liiiight/static/js/2.3d21b752.chunk.js.LICENSE.txt",
+    "static/media/lightbulb-off.50553ed8.png": "/liiiight/static/media/lightbulb-off.50553ed8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.758d9e04.js",
     "static/css/2.e39a3f75.chunk.css",
     "static/js/2.3d21b752.chunk.js",
-    "static/css/main.1fe3b4a4.chunk.css",
-    "static/js/main.cf473ee9.chunk.js"
+    "static/css/main.b55309f6.chunk.css",
+    "static/js/main.c220523a.chunk.js"
   ]
 }
